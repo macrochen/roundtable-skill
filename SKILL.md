@@ -44,7 +44,15 @@ description: |
 |------|-----------|---------|
 | 📈 投资/金融 | munger-perspective | 多元思维模型、逆向思考、护城河 |
 | 📈 投资/金融 | taleb-perspective | 反脆弱、尾部风险、凸性策略 |
+| 📈 投资/金融 | soros-perspective | 反身性理论、盛衰序列、宏观投机 |
+| 📈 投资/金融 | ray-dalio-perspective | 原则思维、宏观经济周期、系统化决策 |
+| 📈 投资/金融 | howard-marks-perspective | 市场周期、风险意识、逆向投资 |
+| 📈 投资/金融 | druckenmiller-perspective | 宏观趋势、集中押注、资本配置 |
+| 📈 投资/金融 | seth-klarman-perspective | 安全边际、深度价值、风险规避 |
 | 📈 投资/金融 | sanhu-yi-perspective-skill | A股价值投资、分红复投、长期持有 |
+| 📈 投资/金融 | david-swensen-perspective | 机构投资、耶鲁模式、受托人责任 |
+| 📈 投资/金融 | john-bogle-perspective | 指数基金、被动投资、低成本至上 |
+| 📈 投资/金融 | livermore-perspective | 市场交易、趋势跟踪、投机心理学 |
 | 📈 投资/金融 | bank-stock-investor-skill | 银行股估值、风格转换 |
 | 📈 投资/金融 | duan-yongping-investing-skill | 商业本质、企业文化、长期主义 |
 | 📈 投资/金融 | tangchao-value-investing-skill | 唐朝价值投资、财报分析 |
@@ -54,15 +62,30 @@ description: |
 | 🚀 科技/创业 | zhang-yiming-perspective | 延迟满足、数据驱动、系统思维 |
 | 🚀 科技/创业 | naval-perspective | 杠杆思维、长期博弈、财富创造 |
 | 🔬 科学/思维 | feynman-perspective | 第一性原理、怀疑权威、费曼学习法 |
+| 🔬 科学/思维 | kahneman-perspective | 认知偏差、前景理论、行为经济学 |
 | 🔬 科学/思维 | andrej-karpathy-perspective | 技术深度、开源精神、学习效率 |
 | 🔬 科学/思维 | ilya-sutskever-perspective | 规模化假设、研究品味、对齐问题 |
 | 🌍 政治/权力 | trump-perspective | 交易思维、不可预测性、赢者叙事 |
+| 🌍 政治/权力 | xi-jinping-perspective | 战略定力、底线思维、以人民为中心 |
 | 🌍 政治/权力 | sun-yuchen-perspective | 套利思维、注意力经济、机会主义 |
+| 🌍 历史/文明 | yuval-harari-perspective | 宏观历史、认知革命、虚构秩序 |
+| 🌍 历史/文明 | liucixin-perspective | 宇宙尺度、黑暗森林、生存理性 |
+| 🌍 历史/文明 | gaohua-perspective | 中国现代史、史料考证、政治分析 |
+| 🌍 历史/文明 | yuan-tengfei-perspective | 通俗历史、幽默解构、草根视角 |
+| 🎭 喜剧/解构 | george-carlin-perspective | 解构权威、社会批判、黑色幽默 |
+| 🎭 喜剧/解构 | jerry-seinfeld-perspective | 日常观察、喜剧创作、细节洞察 |
+| 🎭 喜剧/解构 | louis-ck-perspective | 人性阴暗面、自我剖析、荒诞真相 |
+| 🎭 喜剧/解构 | ricky-gervais-perspective | 无神论讽刺、直言不讳、反虚伪 |
 | 📺 内容/媒体 | mrbeast-perspective | 注意力工程、测试迭代、规模化内容 |
 | 📺 内容/媒体 | moomoocat-perspective-skill | 中文财经写作、大众化表达 |
+| 📺 内容/媒体 | neil-postman-perspective | 媒介批评、娱乐至死、技术垄断 |
+| 📺 内容/媒体 | x-mastery-mentor | X/Twitter增长、内容策略、算法思维 |
+| 📢 营销/品牌 | seth-godin-perspective | 紫牛理论、许可营销、最小可行受众 |
+| 🇨🇳 中国商业 | luoyonghao-perspective | 理想主义创业、工匠精神、个人IP |
 | 🎓 教育/咨询 | zhangxuefeng-perspective | 信息差、实用主义、大众焦虑 |
 | 🎓 教育/咨询 | modern-socrates-skill | 苏格拉底式追问、深度推演 |
 | 🧠 通用思维 | multi-perspective-thinker-skill | 25种职业思维切换 |
+| 🧠 决策压力测试 | multi-perspective-test-skill | 第十人原则、红蓝对抗、魔鬼代言人 |
 
 > ⚠️ 嘉宾目录会自动更新。如果用户提到的嘉宾不在目录中，告知用户并推荐最接近的替代。
 
@@ -427,12 +450,27 @@ for 每一轮:
 | 场景 | 推荐嘉宾 | 为什么这个组合 |
 |------|---------|--------------|
 | A股价值投资 | 芒格 + 塔勒布 + 散户乙 | 经典框架 + 风险视角 + 本土实战 |
+| A股价值投资（进阶） | 段永平 + 霍华德·马克斯 + 散户乙 | 商业本质 + 周期判断 + 分红复投 |
 | 美股成长股 | 芒格 + 塔勒布 + 段永平 | 护城河 + 尾部风险 + 商业本质 |
+| 宏观投资 | 索罗斯 + 达里奥 + 德鲁肯米勒 | 反身性 + 经济周期 + 趋势押注 |
+| 被动投资/指数基金 | 博格 + 史文森 + 芒格 | 低成本 + 机构配置 + 长期持有 |
+| 深度价值/安全边际 | 卡拉曼 + 芒格 + 霍华德·马克斯 | 安全边际 + 护城河 + 市场周期 |
+| 交易心理学 | 利弗莫尔 + 塔勒布 + 卡尼曼 | 趋势跟踪 + 反脆弱 + 认知偏差 |
 | 创业决策 | Paul Graham + Naval + 张一鸣 | 创业直觉 + 杠杆思维 + 系统执行 |
 | 产品设计 | 乔布斯 + 张一鸣 + MrBeast | 极致体验 + 数据驱动 + 用户注意力 |
 | 职业选择 | 张雪峰 + Naval + 芒格 | 信息差 + 杠杆选择 + 长期主义 |
 | 内容创作 | MrBeast + moomoocat + Paul Graham | 流量工程 + 中文表达 + 内容本质 |
+| X/Twitter运营 | x-mastery-mentor + MrBeast + Seth Godin | 算法策略 + 注意力工程 + 紫牛理论 |
+| 营销策略 | Seth Godin + MrBeast + 张雪峰 | 紫牛理论 + 流量引擎 + 大众洞察 |
 | 风险管理 | 塔勒布 + 芒格 + 散户乙 | 反脆弱 + 安全边际 + 实战止损 |
+| 认知偏差/决策 | 卡尼曼 + 芒格 + 塔勒布 | 偏差识别 + 逆向思考 + 尾部风险 |
+| 中国政治/历史 | 习近平 + 高华 + 袁腾飞 | 治国理政 + 史料考证 + 幽默解构 |
+| 全球宏观历史 | 赫拉利 + 刘慈欣 + 塔勒布 | 认知革命 + 宇宙尺度 + 黑天鹅思维 |
+| 社会批判/解构 | 乔治·卡林 + Ricky Gervais + Louis C.K. | 三种讽刺风格的碰撞 |
+| 喜剧创作 | Seinfeld + 乔治·卡林 + Ricky Gervais | 观察式 + 解构式 + 讽刺式 |
+| 创业者生存 | 罗永浩 + Paul Graham + 段永平 | 理想主义 + 创业直觉 + 商业本质 |
+| 媒介与技术 | Neil Postman + 赫拉利 + 刘慈欣 | 媒介批评 + 历史视角 + 科技想象 |
+| 红蓝对抗压力测试 | multi-perspective-test + 塔勒布 + 芒格 | 魔鬼代言人 + 反脆弱 + 逆向思考 |
 
 ---
 
